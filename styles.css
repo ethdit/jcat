@@ -1,11 +1,9 @@
+          body{
+           background-color:ivory;
+            color:grey;
+}
 
-        <style>
 
-           body {
-           background-color:ivory ;
-            color:grey
-
-               }
            h1{ border: 32px;
             color: blueviolet;
                }
@@ -36,7 +34,7 @@
                 background-color: black;
                  }
 
-          </style>
+    
  
 
 
