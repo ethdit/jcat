@@ -1,72 +1,45 @@
-     < !DOCTYPE html>
-<html>
   <head>
         <meta charset="utf-8">
         <style>
 
-        body {
+           body {
            background-color:ivory ;
             color:grey
 
-        }
-        h1{ border: 32px;
+               }
+           h1{ border: 32px;
             color: blueviolet;
-       }
+               }
 
 
-        p {  
-            font-size: 16px;
+             p {  font-size: 16px;
             color: rgb(0,0,139);
             background-color: lavender;
             font-family: "Helvetica", sans-serif;
-        }
+              }
 
-        ol{
-           list-style-type: upper-roman;
-           }
+              ol{
+                list-style-type: upper-roman;
+                }
 
-        ul{
-          list-style-type: square;
-         }
+               ul{
+               list-style-type: square;
+               }
 
-.DivClass{ 
-    background-color: dodgerblue; 
-    border: 2px dotted red;
+               .DivClass{ 
+                background-color: dodgerblue; 
+                border: 2px dotted red;
+                }
   
-  }
-  
-.image-container {
-  width: 200px;
-  heigth: 200px;
-  background-color: black;
-  }
+               .image-container {
+                width: 200px;
+                heigth: 200px;
+                background-color: black;
+                 }
+
+          </style>
+      </head>
 
 
- </style>
 
 
-</head>
-    
-<body>
-
-    <h1>Janina Tirkkonen</h1>
-    
-    <p> On the path to learning something new.      
-
-    </p>
-    
-    <ol>
-        <li>Fluent in 4 languages</li>
-        <li>10 years kitchen experience in fine dining</li>
-        <li>Pyton enthusiast/li>
-    </ol>   
-    
-     <ul>
-          <li>Coinbureau fan</li>
-          <li>Pizza lover</li>
-         
-  <div class="DivClass"></div>
-<img src="https://modcuisine.wpenginepowered.com/wp-content/uploads/2012/06/MCAH_COLD_Compose_Salad-Blow-Up-Cutaway-Final.jpg" class="image-container" >
-
-    </body>
-</html>
