@@ -15,13 +15,13 @@ a:link {
 }
 
 
-.leftdiv
+#leftdiv
 {
 float: left;
 background-color:BurlyWood;
 }
 
-.rightdiv
+#rightdiv
 {
 float: right;
 background-color:BurlyWood;
