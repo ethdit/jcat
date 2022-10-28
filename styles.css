@@ -15,7 +15,7 @@ a:link {
 }
 
 
-leftdiv
+.leftdiv
 {
 float: left;
 background-color:BurlyWood;
@@ -27,12 +27,13 @@ float: right;
 background-color:BurlyWood;
 }
 div{
-padding : 1%;
+padding : 7%;
 color: white;
 background-color:grey;
 width: 28%;
 border: 1px solid black;
 }
+
 { h1 : colour: darkblue;
            border: 2px solid; 
 }
@@ -50,7 +51,6 @@ border: 1px solid black;
               
                
 #left{ 
-  float: right;
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
@@ -60,7 +60,6 @@ border: 1px solid black;
            
  }  
  #right{    
-  float: middle;
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
