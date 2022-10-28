@@ -1,4 +1,12 @@
-          body{
+      header {
+  width: 892px;
+  height: 268px;
+  background-position: top left;
+  background-repeat: no-repeat
+}    
+
+
+body{
            background-color:ivory;
             color:grey;
 }
@@ -27,11 +35,15 @@
                list-style-type: square;
                }
 
-               .DivClass{ 
+               div class ="myDiv"{ 
                 background-color: dodgerblue; 
                 border: 2px dotted red;
                 }
-  
+               div class ="myDiv2"{ 
+                background-color: lavender; 
+                border: 2px dotted black;
+                }
+
                .image-container {
                 
                  height: 200px;
