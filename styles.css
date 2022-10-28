@@ -2,8 +2,8 @@
 
 
 body{
-           background-color:lightblue;
-            color:violet;
+           background-color:wheat;
+         
 }
 a:link {
            
@@ -19,13 +19,13 @@ a:link {
                }
 
             h2{ border:22px:
-                      color:violet;
+                      color:DarkMagenta;
 }
 
 
              p {  font-size: 16px;
             color: rgb(0,0,139);
-            background-color: lavender;
+            background-color: DarkBlue;
             font-family: "Helvetica", sans-serif;
               }
 
@@ -37,12 +37,12 @@ a:link {
                list-style-type: square;
                }
 
-               div class ="första"{ 
+               div class ="i1"{ 
                 background-color: dodgerblue; 
                 border: 2px dotted red;
                 }
 
-               div class ="andra"{ 
+               div class ="i2"{ 
                 background-color: lavender; 
                 border: 2px dotted black;
                 }
