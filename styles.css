@@ -1,9 +1,7 @@
 
-
-
 body{
-           background-color:##235784;
-         }
+           background-color:#235784;
+         
 
 a:link {
            
@@ -36,7 +34,7 @@ a:link {
                 color:black;
                 text-align:center;
                 border: 2px solid; 
-                background-colour:#f7aa00;
+                background-color:#f7aa00;
               }
             h2 {
                   color:white; 
