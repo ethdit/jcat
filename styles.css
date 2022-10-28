@@ -8,26 +8,36 @@ body{
 a:link {
            
   color: black; 
-  background-color: grey; 
+  background-color: white; 
   text-decoration: none;
   background-position: top right;
            border-radius:25px;
 }
 
-           h1{ border: 32px;
-            color: black;
-               }
 
-            h2{ border:22px:
-                      color:DarkMagenta;
+leftdiv
+{
+float: left;
+background-color:BurlyWood;
 }
 
-
-             p {  font-size: 16px;
-            color: rgb(0,0,139);
-            background-color: DarkBlue;
-            font-family: "Helvetica", sans-serif;
-              }
+.rightdiv
+{
+float: right;
+background-color:BurlyWood;
+}
+div{
+padding : 1%;
+color: white;
+background-color:grey;
+width: 28%;
+border: 1px solid black;
+}
+{ h1 : colour: darkblue;
+           border: 2px solid; 
+}
+        
+          
 
               ol{
                 list-style-type: upper-roman;
@@ -37,30 +47,24 @@ a:link {
                list-style-type: square;
                }
 
-               div class ="i1"{ 
-                background-color: dodgerblue; 
-                border: 2px dotted red;
-                }
-
-               div class ="i2"{ 
-                background-color: lavender; 
-                border: 2px dotted black;
-                }
-
-               .image-container {
-                
-                 height: 50px;
-                 width: 50px;
-               background-color: powderblue;
-                border: 7px ridge blue;
-             
-                  }
+              
                
-#left{    
- float: left;  
+#left{ 
+  float: right;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+ 
+           
  }  
  #right{    
- float: right;  
+  float: middle;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px
 }
  
 
