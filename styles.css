@@ -39,7 +39,8 @@ a:link {
               }
             h2 {
                   color:white; 
-                  border-radius: 25px;
+                  border: 2px dotted;
+                  
                 }
 
 
