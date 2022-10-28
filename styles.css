@@ -30,31 +30,18 @@ h2{ color: #3b3a30;
                list-style-type: square;
                }
 
-   .container .box { 
-                width:540px; 
-                margin:50px; 
-                display:table; 
-            } 
-            .container .box .box-row { 
-                display:table-row; 
-            } 
-            .container .box .box-cell { 
-                display:table-cell; 
-                width:33%; 
-                padding:10px; 
-            } 
-            .container .box .box-cell.box1 { 
-                background: #c5d5c5; 
-                color:white; 
-                text-align:justify; 
-            } 
-            .container .box .box-cell.box2 { 
-                background:#9fa9a3; 
-                text-align:justify 
-            } 
-            .container .box .box-cell.box3 { 
-                background:#b9b0b0; 
-                text-align:justify;  
+   <div class="grid-container">
+
+    <div class="grid-child purple">
+        Grid Column 1
+    </div>
+
+    <div class="grid-child green">
+        Grid Column 2
+    </div>
+  
+</div>
+
 }
           
 img{
