@@ -30,17 +30,11 @@ h2{ color: #3b3a30;
                list-style-type: square;
                }
 
-   <div class="grid-container">
+  .grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
 
-    <div class="grid-child purple">
-        Grid Column 1
-    </div>
-
-    <div class="grid-child green">
-        Grid Column 2
-    </div>
-  
-</div>
 
 }
           
