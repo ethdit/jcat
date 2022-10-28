@@ -3,8 +3,8 @@
 
 body{
            background-color:wheat;
-         
-}
+         }
+
 a:link {
            
   color: black; 
@@ -14,6 +14,9 @@ a:link {
            border-radius:25px;
 }
 
+ h1{ colour: darkblue;
+           border: 2px solid; 
+}
 
 #leftdiv
 {
@@ -32,12 +35,7 @@ color: white;
 background-color:grey;
 width: 28%;
 border: 1px solid black;
-}
-
-{ h1 : colour: darkblue;
-           border: 2px solid; 
-}
-        
+}    
           
 
               ol{
