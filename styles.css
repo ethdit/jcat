@@ -14,13 +14,33 @@ a:link {
            border-radius:25px;
 }
 
- h1{ color: black;
-           border: 2px solid; 
+#leftbox {
+                float:left; 
+                background:#005792;
+                width:25%;
+                height:280px;
+            }
+            #middlebox{
+                float:left; 
+                background: #00bbf0;
+                width:50%;
+                height:280px;
+            }
+            #rightbox{
+                float:right;
+                background:##fdb44b;
+                width:25%;
+                height:280px;
+            }
+            h1{
+                color:black;
+                text-align:center;
+                border: 2px solid; 
 }
+            h2 {
+                  colour:#00204a; 
+                  border: 1px dotted;
 
-h2{ color: #3b3a30;
-           border: 2px double;
-}
 
               ol{
                 list-style-type: upper-roman;
@@ -30,13 +50,9 @@ h2{ color: #3b3a30;
                list-style-type: square;
                }
 
-  .grid-container {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 20px;
+  
 
 
-}
           
 img{
         max-width: 100%;
