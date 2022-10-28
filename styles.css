@@ -37,12 +37,12 @@ a:link {
                list-style-type: square;
                }
 
-               div class ="myDiv"{ 
+               div class ="första"{ 
                 background-color: dodgerblue; 
                 border: 2px dotted red;
                 }
 
-               div class ="myDiv2"{ 
+               div class ="andra"{ 
                 background-color: lavender; 
                 border: 2px dotted black;
                 }
