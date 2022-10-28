@@ -14,9 +14,12 @@ a:link {
            border-radius:25px;
 }
 
- h1{ colour: darkblue;
+ h1{ color: black;
            border: 2px solid; 
 }
+
+h2{ color: Darkblue;
+           border: 2px double;
 
 #leftdiv
 {
