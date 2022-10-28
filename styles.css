@@ -2,7 +2,7 @@
 
 
 body{
-           background-color:grey;
+           background-color:black;
             color:violet;
 }
 a:link {
@@ -12,11 +12,11 @@ a:link {
 }
 
            h1{ border: 32px;
-            color: blueviolet;
+            color: white;
                }
 
             h2{ border:22px:
-                      color:violet;
+                      color:white;
 }
 
 
