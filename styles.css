@@ -25,20 +25,22 @@ h2{ color: Darkblue;
 {
 float: left;
 background-color:BurlyWood;
+padding: 7%;
+width:30%;
+height:280px;
 }
 
 #rightdiv
 {
 float: right;
-background-color:BurlyWood;
-}
-div{
-padding : 7%;
-color: white;
-background-color:grey;
-width: 28%;
+padding: 7%;
 border: 1px solid black;
-}    
+background-color:white;
+width:30%;
+height:280px;
+           
+}
+
           
 
               ol{
