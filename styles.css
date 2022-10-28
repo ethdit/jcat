@@ -52,10 +52,16 @@ a:link {
                  height: 200px;
                  width: 200px;
                background-color: powderblue;
+                border: 7px ridge blue;
+             
                   }
                
-
-    
+#left{    
+ float: left;  
+ }  
+ #right{    
+ float: right;  
+}
  
 
 
