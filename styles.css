@@ -54,23 +54,15 @@ h2{ color: Darkblue;
             } 
             .container .box .box-cell.box3 { 
                 background:lime; 
-                text-align:justify;            
+                text-align:justify;  
+}
           
-.pic1{ 
-  border: 1px solid #ddd;
-  border-radius: 50%;
-  padding: 5px;
-  width: 150px;
-}
- 
-           
-   
- .pic2{  
-  float:right;margin-left:20px;
-  border-radius: 4px;
-  padding: 5px;
-  width: 150px;
-}
+img{
+        max-width: 100%;
+        max-height: 100%;
+        display: block;
+                       
+                       }
  
 
 
