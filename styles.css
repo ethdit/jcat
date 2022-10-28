@@ -1,16 +1,15 @@
-      header {
-  width: 892px;
-  height: 268px;
-  background-position: top left;
-  background-repeat: no-repeat
-}    
+
 
 
 body{
-           background-color:ivory;
-            color:grey;
+           background-color:grey;
+            color:violet;
 }
-
+a:link {
+  color: green; 
+  background-color: transparent; 
+  text-decoration: none;
+}
 
            h1{ border: 32px;
             color: blueviolet;
