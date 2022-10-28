@@ -2,21 +2,24 @@
 
 
 body{
-           background-color:black;
+           background-color:lightblue;
             color:violet;
 }
 a:link {
-  color: green; 
-  background-color: transparent; 
+           
+  color: black; 
+  background-color: grey; 
   text-decoration: none;
+  background-position: top right;
+           border-radius:25px;
 }
 
            h1{ border: 32px;
-            color: white;
+            color: black;
                }
 
             h2{ border:22px:
-                      color:white;
+                      color:violet;
 }
 
 
@@ -38,6 +41,7 @@ a:link {
                 background-color: dodgerblue; 
                 border: 2px dotted red;
                 }
+
                div class ="myDiv2"{ 
                 background-color: lavender; 
                 border: 2px dotted black;
