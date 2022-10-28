@@ -2,7 +2,7 @@
 
 
 body{
-           background-color:#fdb44b;
+           background-color:##235784;
          }
 
 a:link {
@@ -22,13 +22,13 @@ a:link {
             }
             #middlebox{
                 float:left; 
-                background: #00bbf0;
+                background: #40a8c4;
                 width:50%;
                 height:280px;
             }
             #rightbox{
                 float:right;
-                background: #005792;
+                background: #bcdbdf;
                 width:25%;
                 height:280px;
             }
@@ -36,10 +36,11 @@ a:link {
                 color:black;
                 text-align:center;
                 border: 2px solid; 
+                background-colour:#f7aa00;
               }
             h2 {
-                  color:#00204a; 
-                  border: 1px dotted;
+                  color:white; 
+                  border-radius: 25px;
                 }
 
 
