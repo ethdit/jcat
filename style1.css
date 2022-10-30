@@ -6,22 +6,28 @@ body {
 
 /* Style the header */
 header {
-  background-color: #666;
+  background-color: #5585b5;
   padding: 30px;
   text-align: center;
   font-size: 35px;
   color: white;
 }
 
-/* Style the list inside the menu */
+
 nav ul {
   list-style-type: none;
-  padding: 0;
+  border-style:outset;
+  border-color:#bbe4e9;
+  padding: 30;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
 }
 
 article {
   float: center;
   background-color:##9ba6a5;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
   
 }
 
@@ -30,13 +36,16 @@ aside {
   padding-left: 15px;
   margin-left: 15px;
   float: right;
-  font-style: italic;
+  font-family: Arial, Helvetica, sans-serif;
   background-color: #79c2d0;
 }
 
 section { 
   float: right; 
   backroung-color: #53a8b6;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+ 
 }
 
 /* Style the footer */
@@ -45,6 +54,8 @@ footer {
   padding: 10px;
   text-align: center;
   color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
 }
 
 
