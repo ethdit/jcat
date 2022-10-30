@@ -31,7 +31,12 @@ aside {
   margin-left: 15px;
   float: right;
   font-style: italic;
-  background-color: lightgray;
+  background-color: #79c2d0;
+}
+
+section { 
+  float: right; 
+  backroung-color: #53a8b6;
 }
 
 /* Style the footer */
