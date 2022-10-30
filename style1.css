@@ -1,35 +1,58 @@
 
-article, aside, figure, footer, header, hgroup, menu, nav, section 
-{ display: block; }
 
-
-* { margin : 0; padding : 0; }
-h2, h3, h4, h5, p, ul, ol  { margin : 0 20px; padding : .5em 0; }
-
-
-Container {
-    margin: 0px auto 0px auto;
-	width: 960px;
+body { background:#5585b5;
+       font-family: Arial, Helvetica;
 }
 
-header {
-    margin:0px auto 0px auto;
-    width:960px;
-    height:82px;
-    position:relative;
+header { 
+	background:#53a8b6;
+	 font-size:28px;
+	 padding: 25px;
+	 text-align: center;
+	
+}
+
+.nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+	
+nav li {
+  padding: 8px;
+  margin-bottom: 7px;
+  background-color: #33b5e5;
+  color: #ffffff;
+}
+.nav li:hover {
+  background-color: #0099cc;
+}
+
+aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: times new roman;
+  background-color: lightgray;
 }
 
 article {
-    margin: 0px;
-    padding-top: 10px;
-    padding-bottom: 20px;
-    min-height: 500px;
+  background-color: #bbe4e9;
+  padding: 10px;
+}
+
+section{ 
+	background-color:#a2a8d3;
+	padding:10px;
 }
 
 footer {
-    margin: 0px auto;
-    padding-bottom: 20px;
-	width: 960px;
-	position: relative;
+  background-color:#79c2d0;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  
+	
 }
 
