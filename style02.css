@@ -8,7 +8,7 @@ body {background: #f7f7f7;
 
 
 h1 { 
-color:#606470;
+color:#323643;
 font-size: 30px;
 }
 
@@ -60,7 +60,9 @@ float: left;
 width: 63%;
 
 aside { 
-      background-color:lightgray;
+      background-color: #000;
+      color: #fff;
+       opacity: .5;
       float: right;
       margin-left: 15px;
       padding-left: 15px;
