@@ -34,7 +34,7 @@ leftside{
   height:50px;
       }
 
-main{ float:center;
+main { float:center;
 }
       
       
@@ -50,7 +50,7 @@ header{
       left:20%;
 }
 
-nav{
+nav  {
       float:left;
       display:block;
       margin:18px;
@@ -58,7 +58,7 @@ nav{
       padding:16px;
 }
 
-section { width:200px;
+section  { width:200px;
            height:200px;
            position: fixed;
            top:50%;
@@ -67,24 +67,29 @@ section { width:200px;
            margin-left:-100px;
 }
 
-aside{ 
+aside { 
       background-color: lightgray;
       float: right;
-      font-style: times new roman;
       margin-left: 15px;
       padding-left: 15px;
       width: 30%;
 }
 
-    movie{
+    movie {
           float: right;
           margin-left:30px;
           padding-left:30px;
 }
-      
-      
 
+footer {
+  background-color:#606470; 
+  color: white;
+  padding: 10px;
+  text-align: center;
       
+} 
+
+     
 
 
 
