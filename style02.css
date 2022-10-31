@@ -36,6 +36,8 @@ p{
 profilepic { 
       float: right;
       margin: 0px 0 px 15px 15px;
+      width:200px;
+      height:300px;
 }
 
 header,
@@ -66,9 +68,8 @@ aside {
       }
 
 
-  
-        progress::-webkit-progress-value {
-            background-color:#ff570c;
+  progress::-webkit-progress-bar {
+            background-color: #ff570c;
         }
 
 
