@@ -3,7 +3,22 @@ body {background: #f7f7f7;
       font-family: Arial, Helvetica;
       box-sizing: border-box;
 }
-
+.column {
+  float: left;
+  padding: 10px;
+  height: 300px;
+}
+.left,.right{
+      width:25%;
+}
+.middle{
+      width:50%;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 
 h1{ 
 color:#606470;
