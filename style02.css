@@ -1,6 +1,9 @@
 
 body {background: #f7f7f7; 
       font-family: Arial, Helvetica;
+      border-radius: 6px;
+      display: block;
+      padding:24px 15px;
       }
 
 
@@ -27,7 +30,7 @@ font-style: bold;
 
 p{
   color:#606470;
-  font-size:12px;
+  font-size:15px;
 }
    
 profilepic { 
@@ -35,30 +38,19 @@ profilepic {
       margin: 0px 0 px 15px 15px;
 }
 
-header{
-      float:left;
-      margin:20px;
-      top:30%;
-      left:20%;
+header,
+section,
+aside,
+footer{
+      margin: 0 1,5% 24px 1.5%;
+      
 }
 
-about {
-float:center;
-margin:100px;
-}
 
 ul.no-bullets {
   list-style-type: none; 
   padding: 0; 
   margin: 0; 
-}
-
-nav  {
-      float:right;
-      display:block;
-      background-color:lightgray;
-      margin-left:15px;
-      padding:15px;
 }
 
 
@@ -68,7 +60,7 @@ aside {
       margin-left: 15px;
       padding-left: 15px;
       width: 30%;
-}
+      }
 
 }
   
@@ -79,10 +71,8 @@ aside {
 
 
 footer {
-  osition: fixed;
-  bottom: 0;
-  width: 100%;
-  height: 60px; 
+  clear:both;
+  margin-bottom; 0;
   background-color:#606470; 
   color: white;
   padding: 10px;
