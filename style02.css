@@ -32,9 +32,7 @@ p{
    
 profilepic { 
       float right;
-      top:30px;
-      left:100px;
-      border:1px solid#000000;
+      margin: 0px 0 px 15px 15px;
 }
 
 header{
