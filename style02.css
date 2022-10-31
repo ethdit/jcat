@@ -31,7 +31,7 @@ p{
 }
    
 profilepic { 
-      position:abolute;
+      float right;
       top:30px;
       left:100px;
       border:1px solid#000000;
@@ -42,6 +42,11 @@ header{
       margin:20px;
       top:30%;
       left:20%;
+}
+
+about {
+float:center;
+margin:100px;
 }
 
 ul.no-bullets {
