@@ -5,7 +5,7 @@ body {background: #f7f7f7;
 
 
 h1 { 
-color:#606470;
+color:##222831;
 font-size: 30px;
 }
 
@@ -58,14 +58,12 @@ ul.no-bullets {
 nav  {
       float:right;
       display:block;
-      background-color:lightgray;
       margin-left:15px;
       padding:15px;
 }
 
 
 aside { 
-      background-color:lightgray;
       float: right;
       margin-left: 15px;
       padding-left: 15px;
