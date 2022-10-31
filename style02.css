@@ -49,7 +49,7 @@ footer{
 }
 
 
-ul.no-bullets {
+ul {
   list-style-type: none; 
   padding: 0; 
   margin: 0; 
@@ -68,14 +68,15 @@ aside {
       width: 30%;
       }
       
-nav{ background-color:#a7bcb9;
- }
+
 
 progress {
    float: right;
    color: #ff570c;
         }
-
+        
+ul {list-style-type: none;
+ }
 
 
 footer {
