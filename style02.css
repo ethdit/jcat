@@ -34,7 +34,7 @@ p{
 }
    
 profilepic { 
-      float right;
+      float: right;
       margin: 0px 0 px 15px 15px;
 }
 
@@ -62,7 +62,7 @@ aside {
       width: 30%;
       }
 
-}
+
   
         progress::-webkit-progress-value {
             background-color: #ff570c!important;
@@ -72,7 +72,7 @@ aside {
 
 footer {
   clear:both;
-  margin-bottom; 0;
+  margin-bottom: 0;
   background-color:#606470; 
   color: white;
   padding: 10px;
