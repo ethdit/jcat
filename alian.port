@@ -6,10 +6,9 @@
    
    <body>
 	   <header> <h1> Alien John Doe </h1>
-		        <h2>Working as a intergalactic freelance writer</h2>
-</header>
+		        <h2>Working as a intergalactic freelance writer</h2> </header>
 				
-<img src="/Users/janinaberg/Pictures/Photos Library.photoslibrary/resources/derivatives/C/C65EC0EA-71EA-4157-9749-EF61FC51BF21_1_105_c.jpeg" width="773" height="1016" alt="C65EC0EA 71EA 4157 9749 EF61FC51BF21 1 105 C"alt="Me drinking my favourite brew"> 
+				 <img id= "profilepic" src="https://im.ge/i/2Wdm0F" alt="Me drinking my favourite brew"> 
 				
 <main>
 	<h3> About</h3>
@@ -17,7 +16,8 @@
 	<p> Over 18 years experience in both writing and exploaring the far away corners of the galaxy, I am looking for becoming the head editor of the Intergalactic news</p>
 	
 </main>
-<nav role="main">
+
+<nav>
 	<ul>
 		
 	<li>2017 - 2022</li>
@@ -33,7 +33,7 @@
 
 	
 <section>
-	<h4>Experience</4>
+	<h3>Experience</h3>
 		
 	<div class="companies">
 		<h5>Company D</h5> 
@@ -57,7 +57,7 @@
 		
 </section>
 
-<nav role="sub">
+<nav>
 
 <ul>
 	<li> 2000-2004 </li>
@@ -67,15 +67,15 @@
 </nav>
 
 <section>
-	<h6> Education</h6>
+	<h4> Education</h4>
 	
 	<div class="schools">
-	<h7> Interplanetary University</h7>
+	<h5> Interplanetary University</h5>
 	<p> Interplanetary writing and communication.</p>
 </div>
 
 <div class="schools">
-	<h7> University of applied alian science</h7>
+	<h5> University of applied alian science</h5>
 	<p> Bachelors Degree of intercommunication.</p>
 </div>
 
@@ -83,23 +83,22 @@
 
 <aside>
 	
-	<h8>Intrest</h8>
-	<img scr="https://img.icons8.com/ios-filled/50/000000/coffee-beans---v2.png"alt= "Coffe Beans">
+	<h4>Intrest</h4>
+	<p><img id="coffe" src="https://www.clipartmax.com/png/small/30-304014_coffee-bean-cartoon.png" alt="Coffee Bean - Cartoon @clipartmax.com">
+Love diffrent coffe cultures! Big fan of dark brews, Kopi luwak and Monkey Coffe!</p>
 		
-		<p> Love diffrent coffe cultures! Big fan of dark brews, Kopi luwak and Monkey Coffe!</p>
-		
-		<img src="https://img.icons8.com/ios-glyphs/30/000000/film-reel--v1.png" alt="Movie Icon">
-		
-		<p> Human movies have always made my alien insides flutter with laughter, especially the movies about aliens!</p>
+	<p><img id="movie" src="https://img.icons8.com/ios-glyphs/30/000000/film-reel--v1.png" alt="Movie Icon">
+Human movies have always made my alien insides flutter with laughter, especially the movies about aliens!</p>
 
-<img src="https://img.icons8.com/ios-filled/50/000000/learning.png"alt="Learning">
-		<p>I love expanding my knowledge, especially about human culture! I am a alian who learns by doing!</p>
+<p><img id="brain" src="https://img.icons8.com/ios-filled/50/000000/learning.png" alt="Learning">
+I love expanding my knowledge, especially about human culture! I am a alian who learns by doing!</p>
+
 </aside>
 
 <article>
-	<h9> Skills</h9>
+	<h4> Skills</h4>
 	
-	<h10> Languages</10>
+	<h4> Languages</h4>
 <div class="languageskills">
 	
 	<label for="english">English skills</label>
@@ -108,7 +107,7 @@
 
 <label for="xrrcchy-planet123">Xrrcchy-planet123</label>
 
-<progress id="xrrcchy-planet123" max"100" value"70">70%</progress>
+<progress id="xrrcchy-planet123" max="100" value="70">70%</progress>
 
 <label for="finnish">Finnish skills</label>
 
@@ -117,13 +116,13 @@
  
 <label for="italian">Italian skills</label>
 
-<progress id="italiam" max="100" value="80"> 80% </progress>
+<progress id="italian" max="100" value="80"> 80% </progress>
 
 </div>
 </article>
 	
 <footer>
-	<h11>Contact information</h11>	
+	<h4>Contact information</h4>	
 	<p>Adress Planter Qzorg</p>
 	<p>Email:Alian.jd@gggg.irl</p>
 </footer>
