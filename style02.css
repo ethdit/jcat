@@ -39,9 +39,9 @@ h5{
 color:#606470;
 font-size: 8px;
 }
-
-    
-profilepic { float:right;
+   
+profilepic { 
+      float:right;
       maring:30px;
       border:1px solid#000000;
 }
@@ -51,6 +51,12 @@ header{
       margin:20px;
       top:20%;
       left:20%;
+}
+
+ul.no-bullets {
+  list-style-type: none; 
+  padding: 0; 
+  margin: 0; 
 }
 
 nav  {
@@ -71,7 +77,10 @@ aside {
 }
 
 footer {
-  float: center;
+  osition: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 60px; 
   background-color:#606470; 
   color: white;
   padding: 10px;
