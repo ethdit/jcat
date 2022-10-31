@@ -1,6 +1,8 @@
 
 body {background: #f7f7f7; 
       font-family: Arial, Helvetica;
+}
+
 
 h1{ 
 color:#606470;
@@ -30,7 +32,7 @@ p{
    
 profilepic { 
       float:right;
-      maring:30px;
+      maring:5px;
       border:1px solid#000000;
 }
 
