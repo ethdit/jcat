@@ -60,16 +60,14 @@ float: left;
 width: 63%;
 
 aside { 
-      background-color: #000;
-      color: #fff;
-       opacity: .5;
+      background-color: #dbd8e3;
       float: right;
       margin-left: 15px;
       padding-left: 15px;
       width: 30%;
       }
       
-nav{ background-color: #000;
+nav{ background-color:#ff570c;
       color: #fff;
        opacity: .5;
  }
