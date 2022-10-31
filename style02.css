@@ -53,6 +53,9 @@ ul.no-bullets {
   margin: 0; 
 }
 
+section{
+float: left;
+width: 63%;
 
 aside { 
       background-color:lightgray;
@@ -65,7 +68,7 @@ aside {
 
   
         progress::-webkit-progress-value {
-            background-color: #ff570c!important;
+            background-color:#ff570c;
         }
 
 
