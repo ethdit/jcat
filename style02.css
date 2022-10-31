@@ -24,13 +24,17 @@ font-size: 8px;
 }
 
 
-leftside{
+.leftside{
+  border-style: solid;
   border-left:30px;
   border-radius:30px;
   color:#606470; 
   height:50px;
       }
 
+.main{
+      
+      
 profilepic { float:right;
       maring:30px;
       border:1px solid#000000;
@@ -45,9 +49,12 @@ header{
 
 nav{
       float:left;
+      display:block;
       margin:18px;
-      padding:10px;
+      text-align: center;
+      padding:16px;
 }
+
 section { width:200px;
            height:200px;
            position: fixed;
@@ -71,6 +78,8 @@ aside{
           margin-left:30px;
           padding-left:30px;
 }
+      
+      
 
       
 
