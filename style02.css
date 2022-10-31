@@ -1,86 +1,99 @@
-body {background: #f7f7f7; 
-      font-family: Arial, Helvetica;
-      border-radius: 6px;
-      display: block;
-      padding:24px 15px;
-      }
-
-
-h1 { 
-color:#606470;
-font-size: 30px;
-}
-
-h2{ 
-color:#606470;
-font-size:15px;
-}
-
-h3{ 
-color:#ff570c;
-font-size:18px;
-}
-
-h5{
-color:#606470;
-font-size: 15px;
-font-style: bold;
-}
-
-p{
-  color:#606470;
-  font-size:15px;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head> <link rel="stylesheet" href="style02.css"> 
+<title>Portfolio</title>
+   </head>
    
-profilepic { 
-      float: right;
-      margin: 0px 0 px 15px 15px;
-      width:200px;
-      height:300px;
-}
+   <body>
+	   <header> 
 
-header,
-section,
-aside,
-footer{
-      margin: 0 1,5% 24px 1.5%;
-      
-}
+	  
+		    <h1>Alien John Doe</h1> 
+		  <h2>Working as a intergalactic freelance writer </h2></header>
+				
+<img id= "profilepic" src="https://img.icons8.com/external-victoruler-solid-victoruler/64/000000/external-alien-occupation-and-people-victoruler-solid-victoruler.png" alt="Picture of me">
 
-
-ul.no-bullets {
-  list-style-type: none; 
-  padding: 0; 
-  margin: 0; 
-}
-
-section{
-float: left;
-width: 63%;
-
-}
-
-aside { 
-      background-color:lightgray;
-      float: right;
-      margin-left: 15px;
-      padding-left: 15px;
-      width: 30%;
-      }
+<section> 
+	   
+	<h3> About</h3>
+	
+	<p> Over 18 years experience in both writing and exploaring the far away corners of the galaxy, I am looking for becoming the head editor of the Intergalactic news</p>	
 
 
-  progress::-webkit-progress-bar {
-            background-color: #ff570c;
-        }
+	<h3>Experience</h3>
+	<h5>2017 - 2022  -  Company D</h5> 
+        <p>Content creater and writer of the social media acounts.</p>
+	
+	<h5>2012 - 2017  -  Company C</h5> 
+	<p> Brainstorm and research blog topics for various space clients.</p>
+	
+	<h5>2007 - 2012  -  Company B</h5> 
+	<p> Investigative Journalist. Also frequently travelling across diffrent galaxies.</p>
+	
+	<h5>2004 - 2007  -  Company A</h5> 
+	<p> Reviewer and coffe-runner.</p>
+	
+   
+	<h3> Education</h3>
+	  
+	<h5> 2000 - 2004  - Interplanetary University</h5>1
+	<p> Interplanetary writing and communication.</p>
+
+	<h5> 1995 - 2000  -  University of applied alian science</h5>
+	<p> Bachelors Degree of intercommunication.</p>
+	
+
+</section>
 
 
+<aside>
+<h3>Intrest</h3>
+	
+<p><img id="coffe" src="https://img.icons8.com/ios-filled/50/000000/coffee-beans---v2.png" alt="Coffee Bean - Cartoon @clipartmax.com">
+Love diffrent coffe cultures! Big fan of dark brews, Kopi luwak and Monkey Coffe!</p>
+		
+<p><img id="movie" src="https://img.icons8.com/ios-filled/50/000000/film-reel--v1.png" alt="Movie Icon">
+Human movies have always made my alien insides flutter with laughter, especially the movies about aliens!</p>
 
-footer {
-  clear:both;
-  margin-bottom: 0;
-  background-color:#606470; 
-  color: white;
-  padding: 10px;
-  text-align: center;
-      
-} 
+<p><img id="brain" src="https://img.icons8.com/ios-filled/50/000000/learning.png" alt="Learning">
+I love expanding my knowledge, especially about human culture! I am a alian who learns by doing!</p>
+
+
+</aside>
+	   
+<nav>
+
+<h3> Skills</h3>
+	
+<h5> Languages</h5>
+	
+<label for="english">English skills</label>
+
+<progress id="english" max="100" value="100"> 100% </progress>
+
+<label for="xrrcchy-planet123">Xrrcchy-planet123</label>
+
+<progress id="xrrcchy-planet123" max="100" value="70">70%</progress>
+
+<label for="finnish">Finnish skills</label>
+
+<progress id="finnish" max="100" value="60"> 60%
+ </progress>
+ 
+<label for="italian">Italian skills</label>
+
+<progress id="italian" max="100" value="80"> 80% </progress>
+
+</nav>
+   
+	
+<footer>
+	<h4>Contact information</h4>
+	<a href=https://eu.zonerama.com/jts5/Photo/9081486/353315539#check-duplicates></a>
+	<p>Adress Planter Qzorg</p>
+        <p>Email:Alian.jd@gggg.irl</p>
+</footer>
+ 
+	  	
+</body>
+</html>
