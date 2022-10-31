@@ -24,25 +24,27 @@ font-size: 8px;
 }
 
 
-#leftside{
-  border-left:5px #606470;
+leftside{
+  border-left:30px;
   border-radius:30px;
   color:#606470; 
   height:50px;
       }
 
-#profilepic { float:left;
-      maring:5px;
+profilepic { float:right;
+      maring:30px;
       border:1px solid#000000;
 }
 
 header{
-      float:right;
+      float:left;
       margin:20px;
+      top:20%;
+      left:20%;
 }
 
 nav{
-      float:right;
+      float:left;
       margin:18px;
       padding:10px;
 }
@@ -54,7 +56,21 @@ section { width:200px;
            margin-top:-100px;
            margin-left:-100px;
 }
-                 
+
+aside{ 
+      background-color: lightgray;
+      float: right;
+      font-style: times new roman;
+      margin-left: 15px;
+      padding-left: 15px;
+      width: 30%;
+}
+
+    movie{
+          float: right;
+          margin-left:30px;
+          padding-left:30px;
+}
 
       
 
