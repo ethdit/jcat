@@ -40,19 +40,7 @@ color:#606470;
 font-size: 8px;
 }
 
-
-leftside{
-  border-style: solid;
-  border-left:30px;
-  border-radius:30px;
-  color:#606470; 
-  height:50px;
-      }
-
-main { float:center;
-}
-      
-      
+    
 profilepic { float:right;
       maring:30px;
       border:1px solid#000000;
@@ -73,14 +61,6 @@ nav  {
       padding:16px;
 }
 
-section  { width:200px;
-           height:200px;
-           position: fixed;
-           top:50%;
-           left:50%;
-           margin-top:-100px;
-           margin-left:-100px;
-}
 
 aside { 
       background-color: lightgray;
@@ -90,13 +70,8 @@ aside {
       width: 30%;
 }
 
-    movie {
-          float: right;
-          margin-left:30px;
-          padding-left:30px;
-}
-
 footer {
+  float: center;
   background-color:#606470; 
   color: white;
   padding: 10px;
