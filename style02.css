@@ -31,8 +31,9 @@ p{
 }
    
 profilepic { 
-      float:right;
-      maring:5px;
+      position:abolute;
+      top:30px;
+      left:100px;
       border:1px solid#000000;
 }
 
