@@ -70,6 +70,14 @@ aside {
       width: 30%;
 }
 
+}
+  
+        progress::-webkit-progress-value {
+            background-color: #ff570c!important;
+        }
+
+
+
 footer {
   osition: fixed;
   bottom: 0;
